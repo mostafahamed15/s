@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksafa_web=self.webpackChunksafa_web||[]).push([[359],{1359:function(a,s,e){e(2791);s.Z=e.p+"static/media/safa-logo.ca11f3787adc886ae5b47f364301b697.svg"}}]);
+//# sourceMappingURL=359.ca5a81d3.chunk.js.map
